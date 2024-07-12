@@ -1,0 +1,30 @@
+{
+  "project_info": {
+    "project_number": "209859349344",
+    "firebase_url": "https://dating-app-7f227-default-rtdb.firebaseio.com",
+    "project_id": "dating-app-7f227",
+    "storage_bucket": "dating-app-7f227.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:209859349344:android:cb96e4d84ffb029a8aac05",
+        "android_client_info": {
+          "package_name": "com.jin.vestfriend_123"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBH5wlJew6lTiqiF4svRB8TYc57luQgf-0"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
